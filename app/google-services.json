@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "232677398954",
+    "firebase_url": "https://kaffa-3d4e6.firebaseio.com",
+    "project_id": "kaffa-3d4e6",
+    "storage_bucket": "kaffa-3d4e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232677398954:android:7fbd8a30cde50e885fb3d3",
+        "android_client_info": {
+          "package_name": "com.kaffa.kaffatest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232677398954-8rc1qjoic59m8a2h8ls9jn4st9uil6e0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kaffa.kaffatest",
+            "certificate_hash": "fe4db32c39d02d6bdb822c2c8238a81d1ff736e3"
+          }
+        },
+        {
+          "client_id": "232677398954-3hnkcbq982f9713uu3nkh4ib99sbttct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy7ti4BoNLZ9jTW5WQ0TXmxFnD7d9QsI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232677398954-3hnkcbq982f9713uu3nkh4ib99sbttct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

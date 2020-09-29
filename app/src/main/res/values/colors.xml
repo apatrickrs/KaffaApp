@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/preto</color>
+    <color name="colorPrimaryDark">@color/preto</color>
+    <color name="colorAccent">@color/vermelho_principal</color>
+</resources>

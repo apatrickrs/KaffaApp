@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="branco">#FFFFFF</color>
+    <color name="brancoBottom">#FAFAFA</color>
+    <color name="dark_one">#1C1C1C</color>
+    <color name="dark_second">#7C7C7C</color>
+    <color name="fundoPrincipalApp">#FFFFFF</color>
+    <color name="preto">#000000</color>
+    <color name="branco2">#F2F2F2</color>
+    <color name="dark">#151515</color>
+    <color name="dark_light">#1C1C1C</color>
+    <color name="darkCard">#2E2E2E</color>
+    <color name="pink">#FF0080</color>
+    <color name="vermelho_principal">#A30000</color>
+    <color name="vermelho_dark">#470f0f</color>
+    <color name="verde_perfil">#2EFF00</color>
+    <color name="azul">#0022FF</color>
+    <color name="laranja">#FF4000</color>
+    <color name="amarelo">#F7FE2E</color>
+
+</resources>
