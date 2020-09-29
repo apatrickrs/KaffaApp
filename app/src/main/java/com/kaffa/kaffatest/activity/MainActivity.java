@@ -42,12 +42,12 @@ public class MainActivity extends AppCompatActivity {
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
-                abrirScreen();
+                openScreen();
             }
         }, 9500);
     }
 
-    private void abrirScreen() {
+    private void openScreen() {
         ActivityCompat.startActivity(this, new Intent(this, ValidateCnpjActivity.class),
                 ActivityOptionsCompat.makeCustomAnimation(getApplicationContext(), R.anim.fade_in, R.anim.fade_out).toBundle());
         finish();
