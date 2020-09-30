@@ -7,7 +7,8 @@
 #### Import the folder to android studio, then let him compile the entire project and download the dependencies
 #### Connect your phone to a usb port (make sure the developer option is enabled on your phone and activate the usb debug function) then automatically android studio will detect your phone in the top center of the screen, play and wait for the gradle compile and run the app on your phone.
 
-
+### Note on how to delete items in the TODO list:
+#### Hold your finger on top of something to do for a few seconds to delete
 
 ![App working](https://github.com/apatrickrs/KaffaApp/blob/master/appVideoA_1.gif)
 
